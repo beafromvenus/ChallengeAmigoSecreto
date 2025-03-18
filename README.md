@@ -20,11 +20,11 @@ Para usar este projeto localmente, siga os seguintes passos:
 1. **Clone o repositório**:
 
    ```bash
-   git clone https://github.com/seu-usuario/amigo-secreto.git
+   git clone https://github.com/beafromvenus/ChallengeAmigoSecreto
 2. **Entre no diretório do projeto**:
 cd amigo-secreto
 
-E abra o arquivo index.html em um navegador para começar a usar a aplicação.
-Abrindo, você irá conseguir digitar o nome de um amigo no campo de texto e pode pressionar o Enter ou ir diretamente com o mouse no botão para adicionar o nome a lista que será exibida.
+Assim que entrar no diretório, abra o arquivo index.html em um navegador para começar a usar a aplicação. <br>
+Abrindo, você irá conseguir digitar o nome de um amigo no campo de texto e pode pressionar o Enter ou ir diretamente com o mouse no botão para adicionar o nome a lista que será exibida. <br>
 Após isso, clique no botão de sorteio para escolher aleatoriamente um nome da lista. 
 
